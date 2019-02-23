@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
 title: [APIKGSumm Replication Package]
 description: [the replication package for APIKGSumm]
-show_downloads: ["false"]
-github.is_user_page: ["false"]
+show_downloads: "false"
+github.is_user_page: "false"
